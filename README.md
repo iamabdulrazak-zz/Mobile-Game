@@ -1,4 +1,4 @@
 # Mobile-Game
 Mobile Game using web technologies with webView plug-in
-![](img/mobile-version)
-![](img/desktop-version)
+![](img/mobile-version.png)
+![](img/desktop-version.png)
